@@ -1,0 +1,15 @@
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap1\bin\Debug\net6.0\ap1.exe
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap1\bin\Debug\net6.0\ap1.deps.json
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap1\bin\Debug\net6.0\ap1.runtimeconfig.json
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap1\bin\Debug\net6.0\ap1.dll
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap1\bin\Debug\net6.0\ap1.pdb
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap1\obj\Debug\net6.0\ap1.csproj.AssemblyReference.cache
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap1\obj\Debug\net6.0\ap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap1\obj\Debug\net6.0\ap1.AssemblyInfoInputs.cache
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap1\obj\Debug\net6.0\ap1.AssemblyInfo.cs
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap1\obj\Debug\net6.0\ap1.csproj.CoreCompileInputs.cache
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap1\obj\Debug\net6.0\ap1.dll
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap1\obj\Debug\net6.0\refint\ap1.dll
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap1\obj\Debug\net6.0\ap1.pdb
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap1\obj\Debug\net6.0\ap1.genruntimeconfig.cache
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap1\obj\Debug\net6.0\ref\ap1.dll

@@ -1,0 +1,15 @@
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap2\obj\Debug\net6.0\ap2.csproj.AssemblyReference.cache
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap2\obj\Debug\net6.0\ap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap2\obj\Debug\net6.0\ap2.AssemblyInfoInputs.cache
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap2\obj\Debug\net6.0\ap2.AssemblyInfo.cs
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap2\obj\Debug\net6.0\ap2.csproj.CoreCompileInputs.cache
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap2\bin\Debug\net6.0\ap2.exe
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap2\bin\Debug\net6.0\ap2.deps.json
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap2\bin\Debug\net6.0\ap2.runtimeconfig.json
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap2\bin\Debug\net6.0\ap2.dll
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap2\bin\Debug\net6.0\ap2.pdb
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap2\obj\Debug\net6.0\ap2.dll
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap2\obj\Debug\net6.0\refint\ap2.dll
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap2\obj\Debug\net6.0\ap2.pdb
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap2\obj\Debug\net6.0\ap2.genruntimeconfig.cache
+C:\Users\leone\Documents\GitHub\C-\Hilos\ap2\obj\Debug\net6.0\ref\ap2.dll
